@@ -1,0 +1,24 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            LayangLayang Mobile
+tagline:          'We believe sharing is caring'
+description:      'We believe sharing is caring'
+url:              http://blog.layanglayangmobile.com
+
+author:
+  name:           'LayangLayang Mobile'
+  url:            https://twitter.com/layanglayangmbl
+
+paginate:         5
+
+# Custom vars
+version:          1.0.0.alpha.1
+
+github:
+  repo:           https://github.com/layanglayangmobile/blog
