@@ -10,7 +10,7 @@ title:            LayangLayang Mobile
 tagline:          'We believe sharing is caring'
 description:      'We believe sharing is caring'
 url:              http://blog.layanglayangmobile.com
-baseurl:          /blog
+baseurl:          /
 
 author:
   name:           'LayangLayang Mobile'
