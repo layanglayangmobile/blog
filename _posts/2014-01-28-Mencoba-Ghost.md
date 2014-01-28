@@ -1,3 +1,8 @@
+---
+layout: post
+title: Mencoba Ghost
+---
+
 Ghost memang masih baru, seperti yang saya sudah bahas [sebelumnya](http://praw.me/kesan-awal-ghost/). Beberapa fitur masih belum ada, salah satu yang terpenting adalah analytics. 
 
 Namun setelah mencari tahu, kita sudah bisa menyematkan script Google Analytics ke dalam Ghost kita, sehingga kita bisa melacak statistik dan menganalisis traffic dari blog kita yang menggunakan Ghost.
