@@ -251,7 +251,7 @@ a.sidebar-nav-item:focus {
 
 /* LayangLayang Mobile Theme */
 .theme-base-llm .sidebar {
-  background-color: #d28445;
+  background-color: #ff7300;
 }
 
 .theme-base-llm .sidebar-about h1 {
@@ -261,5 +261,5 @@ a.sidebar-nav-item:focus {
 }
 .theme-base-llm .content a,
 .theme-base-llm .related-posts li a:hover {
-  color: #d28445;
+  color: #ff7300;
 }
