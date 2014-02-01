@@ -248,3 +248,18 @@ a.sidebar-nav-item:focus {
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
 }
+
+/* LayangLayang Mobile Theme */
+.theme-base-llm .sidebar {
+  background-color: #d28445;
+}
+
+.theme-base-llm .sidebar-about h1 {
+  color: #fff;
+  font-family: "Montserrat", serif;
+  font-size: 1.95rem;
+}
+.theme-base-llm .content a,
+.theme-base-llm .related-posts li a:hover {
+  color: #d28445;
+}
