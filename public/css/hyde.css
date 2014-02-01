@@ -252,6 +252,7 @@ a.sidebar-nav-item:focus {
 /* LayangLayang Mobile Theme */
 .theme-base-llm .sidebar {
   background-color: #ff7300;
+  color: rgba(255,255,255, 0.75);
 }
 
 .theme-base-llm .sidebar-about h1 {
