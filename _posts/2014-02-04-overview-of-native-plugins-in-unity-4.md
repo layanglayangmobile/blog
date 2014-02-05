@@ -1,3 +1,8 @@
+---
+layout: post
+title: Overview Of Native Plugins In Unity 4
+---
+
 Ok, I know that we all love Unity. It is a great development tool for making games and 3d apps. It allows us to target multiple platforms also, from pc,osx,linux, browsers, consoles, and even mobiles. However, sometimes while Unity shines in making build once run anywhere platform, it still have to improve if developers want to build once run anywhere and use a specific platform feature. 
 
 Unity gives developers a way for developers to access native platform specific features, that is by allowing native code to be called from directly from c# code. However, this doesn't mean that you can call API's or SDK function in native code directly; to call the native code is quite a hefty process and hard to control. Sometimes it better to use pattern like this :
